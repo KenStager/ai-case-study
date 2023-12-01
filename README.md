@@ -1,6 +1,11 @@
-# ai-case-study
-Module 1 Challenge - Ken Stager
+# Sheild AI
 
+```
+ai-case-study
+Module 1 Challenge - Ken Stager
+```
+
+---
 
 ### Overview and Origin of Shield AI
 
@@ -62,3 +67,51 @@ Module 1 Challenge - Ken Stager
 3. **Performance Relative to Competitors**:
    - **Market Position**: Shield AI operates in a highly competitive market with several major players. Despite this, the company has established itself as a leader in AI-driven autonomous systems for military use, evidenced by its substantial valuation and continuous innovation.
    - **Technological Edge**: Shield AI's technology, particularly its AI pilot software and autonomous capabilities, sets it apart from competitors. The comparison to Tesla's self-driving technology by industry experts underscores the sophistication and adaptability of Shield AI's products in military applications.
+  
+
+### Recommendations for Shield AI
+
+#### Advised Products or Services
+- **Product Suggestion**: Develop an integrated system combining Underwater Autonomous Vehicles (UAVs) with Portable AI Surveillance Systems, enhancing both underwater and surface-level surveillance in naval and military operations.
+
+#### Benefits to the Company
+- **Market Expansion**: This product would enable Shield AI to venture into naval defense, complementing its aerial and terrestrial capabilities.
+- **Technological Leadership**: Establishing Shield AI as a leader in multi-domain surveillance technology, reinforcing its innovative reputation.
+- **Strategic Diversification**: Aligns with defense technology trends, securing Shield AI's position in the evolving defense sector.
+
+#### Technologies Utilized
+- **AI for Autonomous Navigation**: Employ AI to navigate complex underwater terrains autonomously.
+- **Advanced Sensing Technologies**: Integrate sensors for data collection, pattern recognition, and environmental monitoring.
+- **Stealth Features**: Incorporate stealth technologies for covert operations and enhanced reconnaissance efficacy.
+- **Geospatial Tracking and Automation**: Use AI-driven geospatial tracking and automated alert systems in surveillance tools for efficient monitoring.
+
+#### Appropriateness of These Technologies
+- **Alignment with Defense Needs**: These technologies meet current and future defense sector requirements, focusing on enhanced surveillance and reconnaissance.
+- **Complement Existing Expertise**: Leveraging Shield AI’s existing AI and autonomous systems expertise for development.
+- **Adaptability and Scalability**: The technologies are adaptable and scalable for various military scenarios, fitting for a defense technology company like Shield AI.
+
+---
+
+### Addendum: Sources Cited
+
+### Section 1: Overview and Origin
+- Wikipedia on Shield AI: [Shield AI - Wikipedia](https://en.wikipedia.org/wiki/Shield_AI)
+
+### Section 2: Business Activities
+- Shield AI Official Website: [Building The World’s Best AI Pilot](https://shield.ai)
+- TechCrunch Article on Shield AI: [Shield AI raises $165M at a $2.3B valuation](https://techcrunch.com/2021/07/22/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/)
+
+### Section 3: Landscape
+- Owler Company Profile on Shield AI: [Shield AI's Competitors, Revenue, Number of Employees, Funding, Acquisitions & News - Owler Company Profile](https://www.owler.com/company/shieldai)
+- StartUs Insights on Military Technology Trends: [Top 10 Military Technology Trends for 2024](https://www.startus-insights.com/innovators-guide/top-10-military-technology-trends-for-2024/)
+- Emergen Research on Military Robots Market: [Military Robots Market Top Companies](https://www.emergenresearch.com/industry-report/military-robots-market)
+- GM Insights on AI in Military Market: [Artificial Intelligence in Military Market Size](https://www.gminsights.com/industry-analysis/artificial-intelligence-ai-in-military-market)
+
+### Section 4: Results
+- TechCrunch Article on Shield AI's Funding: [Shield AI raises $200M at a $2.7B valuation](https://techcrunch.com/2021/11/18/shield-ai-raises-200m-at-a-2-7b-valuation-to-scale-military-autonomous-flying-tech/)
+- IncFact on Shield AI's Revenue: [Annual Report on Shield AI's Revenue, Growth, SWOT Analysis & Competitor Intelligence](https://incfact.com/company/shieldai-sanfrancisco-ca/)
+
+### Section 5: Recommendations
+- Shield AI Official Website: [Building The World’s Best AI Pilot](https://shield.ai)
+- Breaking Defense on Shield AI and Boeing Partnership: [Shield AI, Boeing ink agreement to push AI, autonomous development](https://breakingdefense.com/2023/03/shield-ai-boeing-ink-agreement-to-push-ai-autonomous-development/)
+
